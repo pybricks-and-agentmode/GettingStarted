@@ -1,1 +1,34 @@
-# GettingStarted
+# Lego Spike Prime with GitHub Copilot Agent Mode and Pybricks
+
+## Overview
+
+In this project, we will use GitHub Copilot Agent Mode to help us write Python code for the LEGO Spike Prime hub using Pybricks.
+
+Pybricks is Python and Block coding for smart LEGO® hubs. Run programs directly on the hub, and get full control of your motors and sensors.
+
+We will turn the traditional LEGO Spike Lessons into an exciting coding experience using GitHub Copilot to help us write the code with Agent Mode.
+
+## Requirements
+- LEGO Spike Prime Set
+- Newest version of Python
+- Install pybricks firmware on your hub
+- Visual Studio Code newest version
+- GitHub Copilot Business Subscription
+
+## Challenges
+
+1. Add features incrementally to the Break Dancer project using GitHub Copilot Agent Mode. - Purpose of this exercise is to learn about Prompt files
+2. Plan with Copilot and then build with Agent Mode - Start by planning the work with a Custom Chatmode and then implement with Agent Mode
+3. Bring in external context - Fetching documentation with Copilot and implement features with Agent Mode
+4. Explore custom instructions and how they can help you write code faster - Learn about custom intructions
+5. Get Copilot to figure out how the Robot is wired and write code to control it - Learn about Copilots "Self healing" capabilities.
+6. FreeStyle - Build your own project with Copilot, or add additional sensors and buttons - Have fun and be creative.
+
+
+## Docs
+
+- [Spike Prime Break Dancer](https://education.lego.com/en-us/lessons/prime-life-hacks/break-dance/student-worksheet/)
+[Pybricks Docs](https://docs.pybricks.com/en/stable/)
+- [Pybricks VSCode](https://pybricks.com/project/pybricks-other-editors/)
+- [GitHub Copilot Docs](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
+- [GitHub Copilot Agent Mode 101](https://github.blog/ai-and-ml/github-copilot/agent-mode-101-all-about-github-copilots-powerful-mode/)
