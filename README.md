@@ -18,6 +18,8 @@ We will turn the traditional LEGO Spike Lessons into an exciting coding experien
 
 ## Activities
 
+The activities are not in a specific order, you can pick and choose which ones you want to do. Each activity is independent of the others.
+
 | Activity | Description | Purpose | Repository |
 |----------|-------------|---------|------------|
 | 1. Prompt Files | Add features incrementally to the Break Dancer project using GitHub Copilot Agent Mode | Learn about Prompt files and how they enhance code generation | [activity1-promptfiles](https://github.com/pybricks-and-agentmode/activity1-promptfiles) |
