@@ -23,11 +23,9 @@ We will turn the traditional LEGO Spike Lessons into an exciting coding experien
 | 1. Prompt Files | Add features incrementally to the Break Dancer project using GitHub Copilot Agent Mode | Learn about Prompt files and how they enhance code generation | [activity1-promptfiles](https://github.com/pybricks-and-agentmode/activity1-promptfiles) |
 | 2. Chat Modes | Plan with Copilot and then build with Agent Mode | Start by planning the work with a Custom Chat Mode and then implement with Agent Mode | [activity2-chatmodes](https://github.com/pybricks-and-agentmode/activity2-chatmodes) |
 | 3. Custom Instructions | Explore custom instructions and how they can help you write code faster | Learn about custom instructions and their impact on coding efficiency | [activity3-custominstructions](https://github.com/pybricks-and-agentmode/activity3-custominstructions) |
-| 4. FreeStyle | Build your own project with Copilot, or add additional sensors and buttons | Have fun and be creative with your own LEGO Spike Prime project, get started with the template | [template](https://github.com/pybricks-and-agentmode/template) |
+| 4. FreeStyle | Build your own project with Copilot, or add additional sensors and buttons | Have fun and be creative with your own LEGO Spike Prime project, get started with the template. Examples: Bring in external context - Fetching documentation with Copilot by pasting URLs and implement features with Agent Mode or get Copilot to figure out how the Robot is wired and write code to control it - Learn about Copilots "Self healing" capabilities. | [template](https://github.com/pybricks-and-agentmode/template) |
 
-TBD. Bring in external context - Fetching documentation with Copilot and implement features with Agent Mode
-
-TBD. Get Copilot to figure out how the Robot is wired and write code to control it - Learn about Copilots "Self healing" capabilities.
+Examples: Bring in external context - Fetching documentation with Copilot by pasting URLs and implement features with Agent Mode or get Copilot to figure out how the Robot is wired and write code to control it - Learn about Copilots "Self healing" capabilities.
 
 
 
