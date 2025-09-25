@@ -10,25 +10,31 @@ We will turn the traditional LEGO Spike Lessons into an exciting coding experien
 
 ## Requirements
 - LEGO Spike Prime Set
+ - Build the "Break Dance" robot as per the [official lesson](https://education.lego.com/en-us/lessons/prime-life-hacks/break-dance//)
 - Newest version of Python
 - Install pybricks firmware on your hub
 - Visual Studio Code newest version
 - GitHub Copilot Business Subscription
 
-## Challenges
+## Activities
 
-1. Add features incrementally to the Break Dancer project using GitHub Copilot Agent Mode. - Purpose of this exercise is to learn about Prompt files
-2. Plan with Copilot and then build with Agent Mode - Start by planning the work with a Custom Chatmode and then implement with Agent Mode
-3. Bring in external context - Fetching documentation with Copilot and implement features with Agent Mode
-4. Explore custom instructions and how they can help you write code faster - Learn about custom intructions
-5. Get Copilot to figure out how the Robot is wired and write code to control it - Learn about Copilots "Self healing" capabilities.
-6. FreeStyle - Build your own project with Copilot, or add additional sensors and buttons - Have fun and be creative.
+| Activity | Description | Purpose | Repository |
+|----------|-------------|---------|------------|
+| 1. Prompt Files | Add features incrementally to the Break Dancer project using GitHub Copilot Agent Mode | Learn about Prompt files and how they enhance code generation | [activity1-promptfiles](https://github.com/pybricks-and-agentmode/activity1-promptfiles) |
+| 2. Chat Modes | Plan with Copilot and then build with Agent Mode | Start by planning the work with a Custom Chat Mode and then implement with Agent Mode | [activity2-chatmodes](https://github.com/pybricks-and-agentmode/activity2-chatmodes) |
+| 3. Custom Instructions | Explore custom instructions and how they can help you write code faster | Learn about custom instructions and their impact on coding efficiency | [activity3-custominstructions](https://github.com/pybricks-and-agentmode/activity3-custominstructions) |
+| 4. FreeStyle | Build your own project with Copilot, or add additional sensors and buttons | Have fun and be creative with your own LEGO Spike Prime project, get started with the template | [template](https://github.com/pybricks-and-agentmode/template) |
+
+TBD. Bring in external context - Fetching documentation with Copilot and implement features with Agent Mode
+
+TBD. Get Copilot to figure out how the Robot is wired and write code to control it - Learn about Copilots "Self healing" capabilities.
+
 
 
 ## Docs
 
 - [Spike Prime Break Dancer](https://education.lego.com/en-us/lessons/prime-life-hacks/break-dance/student-worksheet/)
-[Pybricks Docs](https://docs.pybricks.com/en/stable/)
+- [Pybricks Docs](https://docs.pybricks.com/en/stable/)
 - [Pybricks VSCode](https://pybricks.com/project/pybricks-other-editors/)
 - [GitHub Copilot Docs](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
 - [GitHub Copilot Agent Mode 101](https://github.blog/ai-and-ml/github-copilot/agent-mode-101-all-about-github-copilots-powerful-mode/)
